@@ -8,14 +8,14 @@ Este repositório serve como um índice centralizado para meus projetos relacion
 
 ### 🔷 Projetos com SQL
 
--[SQL Devoloper - Gerenciamento de Clientes](https://github.com/RafaelSpumbergSeus/Exemplo-Banco-de-Dados-Relacional)
+- [SQL Devoloper - Gerenciamento de Clientes](https://github.com/RafaelSpumbergSeus/Exemplo-Banco-de-Dados-Relacional)
 Esquema de banco de dados relacional para gerenciamento de clientes, incluindo informações específicas para pessoas físicas e jurídicas. 
 
 ---
 
 ### 🟢 Projetos com NoSQL
 
--[Colab - Gerenciamento de Clientes e Produtos](https://github.com/RafaelSpumbergSeus/Google-Colab-com-Mongo-DB)
+- [Colab - Gerenciamento de Clientes e Produtos](https://github.com/RafaelSpumbergSeus/Google-Colab-com-Mongo-DB)
 Este notebook conecta o Google Colab a um banco de dados MongoDB e permite listar e acessar bancos de dados dentro do MongoDB.
 
 ---
